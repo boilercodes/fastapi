@@ -37,7 +37,7 @@ jobs:
 
       # Only when the context is exactly the same, we will restore the cache.
       - name: Python dependencies caching
-        uses: actions/cache@v2
+        uses: actions/cache@v3.0.1
         id: python_cache
         with:
           path: ${{ env.PYTHONUSERBASE }}
@@ -54,7 +54,7 @@ jobs:
 
       # Only when the context is exactly the same, we will restore the cache.
       - name: Pre-commit environment caching
-        uses: actions/cache@v2
+        uses: actions/cache@v3.0.1
         with:
           path: ${{ env.PRE_COMMIT_HOME }}
           key: "precommit-0-${{ runner.os }}-${{ env.PRE_COMMIT_HOME }}-\
