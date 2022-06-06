@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "boilercodes/fastapi-firebase"
+name = "boilercodes/fastapi"
 version = "0.1.0"
 description = "My FastAPI template"
 authors = ["rmenai <rami.menai@outlook.com>"]
@@ -9,7 +9,6 @@ license = "MIT"
 python = "^3.9"
 fastapi = "^0.78.0"
 uvicorn = "^0.15.0"
-firebase-admin = "^5.2.0"
 requests = "^2.26.0"
 pydantic = "^1.9.1"
 taskipy = "^1.10.2"
@@ -17,7 +16,6 @@ taskipy = "^1.10.2"
 [tool.poetry.dev-dependencies]
 python-dotenv = "^0.19.2"
 pytest = "^7.1.2"
-mock-firestore = "^0.11.0"
 coverage = "^6.4.1"
 colorlog = "^6.6.0"
 pre-commit = "^2.19.0"

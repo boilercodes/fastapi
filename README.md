@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/boilercodes/fastapi-firebase">
+  <a href="https://github.com/boilercodes/fastapi">
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -9,14 +9,14 @@
   <p align="center">
     A modern high-performance web framework for building APIs with Python 3.6+
     <br />
-    <a href="https://github.com/boilercodes/fastapi-firebase"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/boilercodes/fastapi"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/boilercodes/fastapi-firebase">View Demo</a>
+    <a href="https://github.com/boilercodes/fastapi">View Demo</a>
     ·
-    <a href="https://github.com/boilercodes/fastapi-firebase/issues/new?assignees=&labels=&template=bug_report.md&title=">Report Bug</a>
+    <a href="https://github.com/boilercodes/fastapi/issues/new?assignees=&labels=&template=bug_report.md&title=">Report Bug</a>
     ·
-    <a href="https://github.com/boilercodes/fastapi-firebase/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
+    <a href="https://github.com/boilercodes/fastapi/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
   </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -64,30 +64,29 @@ will change all the files to match your repository.
 
 ### Backend:
 * [FastAPI](https://fastapi.tiangolo.com/) for the backend API.
-* [Firebase](https://firebase.google.com/) for the database.
 * [Poetry](https://python-poetry.org/) for dependency management.
 * [Pytest](https://docs.pytest.org/en/6.2.x/) for writing powerful tests.
 * [pre-commit](https://pre-commit.com/) and [flake8](https://flake8.pycqa.org/en/latest/) for git hooks linting.
 
 ### GitHub:
 
-* [Test](https://github.com/boilercodes/fastapi-firebase/blob/main/.github/workflows/test.yaml),
-  [Build](https://github.com/boilercodes/fastapi-firebase/blob/main/.github/workflows/build.yaml) and
-  [Deploy](https://github.com/boilercodes/fastapi-firebase/blob/main/.github/workflows/deploy.yaml) GitHub workflows.
-* [Issues](https://github.com/boilercodes/fastapi-firebase/tree/main/.github/ISSUE_TEMPLATE)
-  and [pull requests](https://github.com/boilercodes/fastapi-firebase/blob/main/.github/pull_request_template.md) templates.
+* [Test](https://github.com/boilercodes/fastapi/blob/main/.github/workflows/test.yaml),
+  [Build](https://github.com/boilercodes/fastapi/blob/main/.github/workflows/build.yaml) and
+  [Deploy](https://github.com/boilercodes/fastapi/blob/main/.github/workflows/deploy.yaml) GitHub workflows.
+* [Issues](https://github.com/boilercodes/fastapi/tree/main/.github/ISSUE_TEMPLATE)
+  and [pull requests](https://github.com/boilercodes/fastapi/blob/main/.github/pull_request_template.md) templates.
 
 <!-- CONTRIBUTING -->
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/boilercodes/fastapi-firebase/blob/main/CONTRIBUTING.md) for ways to get started.
+See [CONTRIBUTING.md](https://github.com/boilercodes/fastapi/blob/main/CONTRIBUTING.md) for ways to get started.
 
 <!-- LICENSE -->
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/boilercodes/fastapi-firebase/blob/main/LICENSE) for more
+Distributed under the MIT License. See [LICENSE](https://github.com/boilercodes/fastapi/blob/main/LICENSE) for more
 information.
 
 <!-- ACKNOWLEDGMENTS -->

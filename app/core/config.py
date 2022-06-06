@@ -17,25 +17,10 @@ class API(BaseSettings):
         env_prefix = "API_"
 
 
-class FireBase(BaseSettings):
-    """The Firebase settings."""
-
-    project_id: str
-    private_key: str
-    client_email: str
-
-    class Config:
-        """The Pydantic settings configuration."""
-
-        env_file = ".env"
-        env_prefix = "FIREBASE_"
-
-
 class Global(BaseSettings):
     """The app settings."""
 
     api: API = API()
-    firebase: FireBase = FireBase()
 
     debug: bool = False
 
