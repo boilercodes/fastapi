@@ -63,18 +63,17 @@ Rami Menai - [@menai_rami][twitter] - [rami.menai@outlook.com][email]
 
 <!-- Repository links -->
 
-[community standards]: https://github.com/boilercodes/python/community
+[community standards]: https://github.com/boilercodes/fastapi/community
 [fastapi-firebase]: https://github.com/boilercodes/fastapi-firebase
 [fastapi-sql]: https://github.com/boilercodes/fastapi-sql
-[pycord]: https://github.com/boilercodes/pycord
-[releases]: https://github.com/boilercodes/python/releases/
-[packages]: https://github.com/boilercodes/python/pkgs/container/python
-[use this template]: https://github.com/boilercodes/python/generate
+[releases]: https://github.com/boilercodes/fastapi/releases/
+[packages]: https://github.com/boilercodes/fastapi/pkgs/container/fastapi
+[use this template]: https://github.com/boilercodes/fastapi/generate
 
 <!-- Shields.io links -->
 
 [gitHub license]: https://img.shields.io/badge/license-MIT-blue.svg
-[test action]: https://github.com/boilercodes/python/actions/workflows/test.yaml/badge.svg
+[test action]: https://github.com/boilercodes/fastapi/actions/workflows/test.yaml/badge.svg
 
 <!-- Social Media links -->
 
